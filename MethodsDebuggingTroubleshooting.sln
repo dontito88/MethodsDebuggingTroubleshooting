@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathPower", "MathPower\Math
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterOfTwto", "GreaterOfTwto\GreaterOfTwto.csproj", "{643279C5-9554-4F5B-A279-318F0684B35E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyEvenByOdds", "MultiplyEvenByOdds\MultiplyEvenByOdds.csproj", "{42CC8B2C-502B-4CA6-8AF6-D0C0A18BB950}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{643279C5-9554-4F5B-A279-318F0684B35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{643279C5-9554-4F5B-A279-318F0684B35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{643279C5-9554-4F5B-A279-318F0684B35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CC8B2C-502B-4CA6-8AF6-D0C0A18BB950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CC8B2C-502B-4CA6-8AF6-D0C0A18BB950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CC8B2C-502B-4CA6-8AF6-D0C0A18BB950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CC8B2C-502B-4CA6-8AF6-D0C0A18BB950}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
